@@ -1,7 +1,14 @@
+
 Midhuna - User1
 Miruna - User2
 
 
 User1 working on login branch
 User2 working on register branch
+
+======REGISTER MODULE========
+Student Name field Added
+Department Field Added
+Register Button Added
+
 
