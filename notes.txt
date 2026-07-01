@@ -1,2 +1,5 @@
-Midhuna - User1
-Miruna - User2
+======REGISTER MODULE========
+Student Name field Added
+Department Field Added
+Register Button Added
+
